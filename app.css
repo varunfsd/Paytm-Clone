@@ -6,8 +6,6 @@
     margin-left: 35px;
     margin-right: 35px;
 }
-.paytmupi-logo{
-}
 .sub1-nav{
     display: flex;
     margin-left:19px;
@@ -31,6 +29,8 @@ display: flex;
 justify-content: flex-end;
 align-items: center;
 border-radius: 20px;
+height: fit-content;
+cursor: pointer;
 }
 .signin{
 font-family: inter;
