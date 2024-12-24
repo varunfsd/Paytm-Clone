@@ -1,0 +1,55 @@
+
+.main-navigation{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+.paytmupi-logo{
+}
+.sub1-nav{
+    display: flex;
+    margin-left:19px;
+    margin-right: 19px;
+}
+.sub2-nav{
+font-family:inter;
+font-size: 17px;
+font-weight: 600;
+cursor: pointer;
+list-style: none;
+display: flex;
+padding: 0px;
+}
+.signincont{
+background-color: rgb(0, 186, 242);
+width:fit-content;
+padding-left: 20px;
+padding-right: 2px;
+display: flex;
+justify-content: flex-end;
+align-items: center;
+border-radius: 20px;
+}
+.signin{
+font-family: inter;
+font-size: 15px;
+color:white;
+font-weight: 600;
+}
+.profile-logo{
+    margin-left: 9px;
+}
+.info{
+    padding:12px;
+}
+.info:hover{
+    background-color: rgb(243, 243, 245);
+    border-radius: 3px;
+}
+.main{
+    height:600px;
+    background-color: rgb(224, 245, 253);
+    border-radius: 2px;
+}
