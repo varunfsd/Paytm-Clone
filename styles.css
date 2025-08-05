@@ -868,15 +868,6 @@ margin-right: 70px;
     gap:15px;
     align-items: center;
 }
-.primary-color{
-    background-color: rgb(0, 186, 242);
-    height:14px;
-}
-.secondary-color{
-    background-color: rgb(0, 41, 112);
-    height:14px;
-}
-
 /* -----SCROLLBAR----- */
 
 ::-webkit-scrollbar {
